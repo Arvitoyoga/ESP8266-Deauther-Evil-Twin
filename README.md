@@ -11,7 +11,7 @@ dengan dua fungsi utama:
 1. **Deauther** → Mengirim paket deauthentication untuk memutus koneksi 
    perangkat klien dari AP target.  
 2. **Evil Twin (Rogue AP)** → Membuat Access Point palsu dengan SSID 
-   yang dipilih untuk mengetahui password wifi =.
+   yang dipilih untuk mengetahui password wifi.
 
 Konfigurasi Variabel:
 - `String AP`       : SSID (nama WiFi) untuk AP web control alat → **WAJIB diubah**    
