@@ -21,7 +21,6 @@ Konfigurasi Variabel:
 
 Fitur Utama:
 1. **Web Control Panel**
-   - AP palsu yang dibuat (`AP`) menyediakan halaman kontrol berbasis web.  
    - Halaman ini digunakan untuk mengatur serangan deauth atau mengaktifkan 
      AP phising.  
    - Akses halaman memerlukan password (`AP_Pass`).  
