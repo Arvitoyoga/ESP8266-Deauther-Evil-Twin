@@ -39,6 +39,7 @@ Tujuan:
   untuk pembelajaran keamanan jaringan (network security learning).  
 - Menggunakan ESP8266 sebagai alat uji penetrasi sederhana.  
 
+** Gunakan board ESP8266 Deauther Boards dengan URL https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json**
 Catatan Penting:
 ⚠️ Program ini hanya boleh digunakan untuk tujuan edukasi dan riset 
 keamanan jaringan pribadi. Penyalahgunaan di jaringan orang lain 
